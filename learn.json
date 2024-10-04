@@ -1,0 +1,18 @@
+{
+    "title": {
+        "us": "Data Loss Prevention (DLP) Policies",
+        "es": "Políticas de Prevención de Pérdida de Datos (DLP)"
+    },
+    "slug": "data-loss-prevention",
+    "description": {
+        "us": "This project aims to guide students in creating security policies for Data Loss Prevention (DLP) within an organization. The first part focuses on applying the principle of least privilege to ensure that only authorized personnel have access to sensitive data. The goal is to protect confidential information through structured policies and procedures. The second part involves implementing restrictions on USB device usage to prevent data leaks, directly linked to the DLP policies established in the first part.",
+        "es": "Este proyecto tiene como objetivo guiar a los estudiantes en la creación de políticas de seguridad para la Prevención de Pérdida de Datos (DLP) dentro de una organización. La primera parte se centra en aplicar el principio del menor privilegio para asegurar que solo el personal autorizado tenga acceso a datos sensibles. La meta es proteger la información confidencial a través de políticas y procedimientos estructurados. La segunda parte implica implementar restricciones en el uso de dispositivos USB para prevenir filtraciones de datos, directamente vinculadas a las políticas de DLP establecidas en la primera parte."
+    },
+    "duration": 3,
+    "difficulty": "beginner",
+    "skills": ["cybersecurity", "data loss prevention", "least privilege", "data classification", "policy creation", "USB restriction"],
+    "repository": "https://github.com/breatheco-de/data-loss-prevention-dlp-project",
+    "preview": "https://raw.githubusercontent.com/breatheco-de/data-loss-prevention-dlp-project/main/assets/preview-image.png",
+    "projectType": "tutorial",
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new"
+}
