@@ -43,7 +43,7 @@ This exercise focuses on the creation and implementation of security policies fo
 
 ### 📁 Example of Real Case Report
 
-For a practical illustration, refer to the [Data Loss Prevention Case Study](assets/security-policies.pdf). This example focuses on the use of **Google Drive**, but it can be adapted to any cloud or local storage or collaboration system. The key is ensuring that only authorized users access the information as needed to perform their work, always respecting the **Principle of Least Privilege**.
+For a practical illustration, refer to the [Data Loss Prevention Case Study](assets/SecurityPolicyReport.pdf). This example focuses on the use of **Google Drive**, but it can be adapted to any cloud or local storage or collaboration system. The key is ensuring that only authorized users access the information as needed to perform their work, always respecting the **Principle of Least Privilege**.
 
 ## Implementation of USB Device Restriction Policies
 
