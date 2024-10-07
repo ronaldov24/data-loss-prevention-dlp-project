@@ -10,7 +10,7 @@
     },
     "duration": 3,
     "difficulty": "beginner",
-    "technologies": ["cybersecurity", "data loss prevention", "least privilege", "data classification", "policy creation", "USB restriction"],
+    "technologies": ["cybersecurity", "ciberseguridad", "data loss prevention", "USB restriction", "dlp", "politicas de seguridad de datos"],
     "repository": "https://github.com/breatheco-de/data-loss-prevention-dlp-project",
     "preview": "https://raw.githubusercontent.com/breatheco-de/data-loss-prevention-dlp-project/main/assets/preview-image.png",
     "bugsLink": "https://github.com/breatheco-de/data-loss-prevention-dlp-project/issues/new"
