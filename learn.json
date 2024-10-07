@@ -1,7 +1,7 @@
 {
     "title": {
-        "us": "Data Loss Prevention (DLP) Policies",
-        "es": "Políticas de Prevención de Pérdida de Datos (DLP)"
+        "us": "Data Loss Prevention (DLP) Policies for external devices",
+        "es": "Implementa Políticas de Seguridad DLP a dispositivos de almacenamiento externo"
     },
     "slug": "data-loss-prevention",
     "description": {
