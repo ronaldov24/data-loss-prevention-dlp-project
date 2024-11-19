@@ -7,17 +7,14 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/data-loss-prevention-dlp-project/blob/main/README.es.md)*
-<!-- endhide -->
-
-
-<!-- hide -->
-
 
 ### Antes de empezar...
 
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 
 <!-- endhide -->
+
+<!-- howtostart -->
 
 ## 🌱 ¿Cómo empezar este proyecto?
 Este ejercicio se enfoca en la creación e implementación de políticas de seguridad para la **Prevención de Pérdida de Datos (DLP)** dentro de una organización, aplicando el principio del menor privilegio y asegurando que solo el personal autorizado tenga acceso a datos sensibles.
@@ -26,7 +23,7 @@ Este ejercicio se enfoca en la creación e implementación de políticas de segu
 - **Parte 1**: Definir y establecer políticas de DLP que ayuden a proteger la información confidencial.
 - **Parte 2**: Implementar medidas específicas, como la **restricción del uso de dispositivos USB**, para asegurar que las políticas de DLP se apliquen en la práctica.
 
-
+<!-- endhowtostart -->
 
 ## 📝 Instrucciones
 
