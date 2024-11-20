@@ -1,5 +1,5 @@
-# DLP Security Policies
 <!-- hide -->
+# DLP Security Policies
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/data-loss-prevention-dlp-project/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -14,7 +14,7 @@
 
 <!-- endhide -->
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 How to Start This Project
 This exercise focuses on the creation and implementation of security policies for **Data Loss Prevention (DLP)** within an organization, applying the principle of least privilege and ensuring that only authorized personnel have access to sensitive data.
@@ -23,7 +23,7 @@ This exercise focuses on the creation and implementation of security policies fo
 - **Part 1**: Define and establish DLP policies that help protect confidential information.
 - **Part 2**: Implement specific measures, such as **restricting the use of USB devices**, to ensure that DLP policies are applied in practice.
 
-<!-- endhowtostart -->
+</onlyfor>
 
 ## 📝 Instructions
 
