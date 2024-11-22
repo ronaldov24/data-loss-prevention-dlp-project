@@ -14,7 +14,7 @@
 
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to Start This Project
 This exercise focuses on the creation and implementation of security policies for **Data Loss Prevention (DLP)** within an organization, applying the principle of least privilege and ensuring that only authorized personnel have access to sensitive data.
