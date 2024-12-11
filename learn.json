@@ -9,6 +9,7 @@
         "es": "Este proyecto tiene como objetivo guiar a los estudiantes en la creación de políticas de seguridad para la Prevención de Pérdida de Datos (DLP) dentro de una organización. La primera parte se centra en aplicar el principio del menor privilegio para asegurar que solo el personal autorizado tenga acceso a datos sensibles. La meta es proteger la información confidencial a través de políticas y procedimientos estructurados. La segunda parte implica implementar restricciones en el uso de dispositivos USB para prevenir filtraciones de datos, directamente vinculadas a las políticas de DLP establecidas en la primera parte."
     },
     "duration": 3,
+    "projectType": "project",
     "difficulty": "beginner",
     "technologies": ["cybersecurity", "ciberseguridad", "data loss prevention", "dlp", "politicas de seguridad de datos"],
     "repository": "https://github.com/breatheco-de/data-loss-prevention-dlp-project",
