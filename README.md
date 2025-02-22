@@ -14,7 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
 
 ## 🌱 How to Start This Project
 This exercise focuses on the creation and implementation of security policies for **Data Loss Prevention (DLP)** within an organization, applying the principle of least privilege and ensuring that only authorized personnel have access to sensitive data.
@@ -22,8 +21,6 @@ This exercise focuses on the creation and implementation of security policies fo
 ### 🔑 General Objective:
 - **Part 1**: Define and establish DLP policies that help protect confidential information.
 - **Part 2**: Implement specific measures, such as **restricting the use of USB devices**, to ensure that DLP policies are applied in practice.
-
-</onlyfor>
 
 ## 📝 Instructions
 
