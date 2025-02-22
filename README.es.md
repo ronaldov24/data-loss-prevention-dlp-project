@@ -14,15 +14,12 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 Este ejercicio se enfoca en la creación e implementación de políticas de seguridad para la **Prevención de Pérdida de Datos (DLP)** dentro de una organización, aplicando el principio del menor privilegio y asegurando que solo el personal autorizado tenga acceso a datos sensibles.
 
 ### 🔑 Objetivo General:
 - **Parte 1**: Definir y establecer políticas de DLP que ayuden a proteger la información confidencial.
 - **Parte 2**: Implementar medidas específicas, como la **restricción del uso de dispositivos USB**, para asegurar que las políticas de DLP se apliquen en la práctica.
-</onlyfor>
 
 ## 📝 Instrucciones
 
