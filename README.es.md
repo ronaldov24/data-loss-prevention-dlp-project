@@ -1,5 +1,5 @@
-#  Políticas de Seguridad DLP
 <!-- hide -->
+#  Políticas de Seguridad DLP
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/data-loss-prevention-dlp-project/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -7,11 +7,6 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/data-loss-prevention-dlp-project/blob/main/README.es.md)*
-<!-- endhide -->
-
-
-<!-- hide -->
-
 
 ### Antes de empezar...
 
@@ -25,8 +20,6 @@ Este ejercicio se enfoca en la creación e implementación de políticas de segu
 ### 🔑 Objetivo General:
 - **Parte 1**: Definir y establecer políticas de DLP que ayuden a proteger la información confidencial.
 - **Parte 2**: Implementar medidas específicas, como la **restricción del uso de dispositivos USB**, para asegurar que las políticas de DLP se apliquen en la práctica.
-
-
 
 ## 📝 Instrucciones
 
